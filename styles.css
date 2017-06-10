@@ -1,0 +1,17 @@
+body {
+  font-family: 'Indie Flower', cursive;
+}
+
+.header img {
+  display: block;
+  width: 10em;
+  margin: 0 auto;
+}
+
+body {
+  text-align: center;
+}
+
+ul li {
+  display: inline-block;
+}
